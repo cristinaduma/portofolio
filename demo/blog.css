@@ -1,0 +1,30 @@
+
+#menu li a:hover {
+    color: silver;
+  
+    } 
+    .lista
+    {list-style: none;
+      text-decoration:none; 
+     
+      padding-left: 0;
+      margin: 0;
+      display:flex;
+      height: 100%;
+  
+    }
+    .lista a {
+        color: rgb(102, 15, 202);
+        padding: 35px;
+        text-decoration:none;
+      }
+
+      .imgcol{
+        border-radius: 50%;
+          aspect-ratio: 1/1;
+          object-fit: cover;
+          object-position: center;
+          max-width: 50%;
+          
+       
+      }
